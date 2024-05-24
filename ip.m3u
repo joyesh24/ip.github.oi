@@ -17,3 +17,9 @@ https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s" group-title="Entertainment", Nagorik TV
 http://starshare.live:8080/live/T20C227070225533/202210886677/3802.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzH3OTXJQLMO5T5CvVN3c_ftiiyoHXdp4nyU_3LIDNw&s" group-title="Live Events", IPL Bangla
+http://starshare.live:8080/live/T20C227070225533/202210886677/304286.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" group-title="Live Events", IPL T Sports
+http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
