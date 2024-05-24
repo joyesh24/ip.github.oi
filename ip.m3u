@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s" group-title="News", Bangladesh Television
-http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/BTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193145934_4.png&w=3840&q=75" group-title="News", BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
