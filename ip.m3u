@@ -48,4 +48,10 @@ http://tv.cloudcdn.me/live.ts?channelId=49569&uid=4280&deviceMac=00:1A:79:17:C1:
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" group-title="Live Events", IPL Tamil Star Sports
 http://opplex.tv:8080/live/2312211/1616616/167574.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy8ql9QKuPFhunY1Sv6lksvum5jaYsHNSxUKnr9o9JjA&s" group-title="Live Events", Bangladesh VS USA
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
+
+#EXTINF:-1 tvg-logo="https://img.jagranjosh.com/images/2023/November/9112023/England-vs-Pakistan-head-to-head.webp" group-title="Live Events", Pakistan VS England
+http://starshare.live:8080/live/T20C227070225533/202210886677/338229.ts
+
 
