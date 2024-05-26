@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" group-title="Live Events", IPL T Sports HD
-https://cdn-1.bdiptv24.line.pm/live/Tsports/index.m3u8
+http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" group-title="Live Events", IPL Gazi TV HD
 https://cdn-1.bdiptv24.line.pm/live/GaziTv/index.m3u8
