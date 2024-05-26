@@ -10,7 +10,7 @@ https://cdn-1.bdiptv24.line.pm/live/GaziTv/index.m3u8
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL English Jio Cinema
-http://watchindia.net:8880/live/69354/82115/2492.ts
+https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Hindi Star Sports
 http://176.119.29.52/live.ts?channelId=49569&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
@@ -20,12 +20,6 @@ http://starshare.live:8080/live/T20C227070225533/202210886677/304278.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Bangla
 http://starshare.live:8080/live/T20C227070225533/202210886677/304286.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Tamil Star Sports
-http://starshare.live:8080/live/T20C227070225533/202210886677/303591.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Tamil Jio Cinema
-http://starshare.live:8080/live/T20C227070225533/202210886677/304282.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Astro Cricket
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
