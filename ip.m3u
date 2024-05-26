@@ -17,3 +17,7 @@ http://176.119.29.52/live.ts?channelId=49569&uid=4280&deviceMac=00:1A:79:17:C1:7
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Hindi Jio Cinema
 http://starshare.live:8080/live/T20C227070225533/202210886677/304278.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Bangla
+http://starshare.live:8080/live/Sylvia/Sylvia/304286.m3u8
+
