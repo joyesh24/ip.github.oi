@@ -19,7 +19,7 @@ http://176.119.29.52/live.ts?channelId=49569&uid=4280&deviceMac=00:1A:79:17:C1:7
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Bangla
-http://starshare.live:8080/live/T20C227070225533/202210886677/304286.ts
+https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/MSy2ABEs14G1-NjBvwZGtTeFGPQh16WTc9joFXvb-5u2oAoSFl4quEN_5OjBYnCttiLnUgkNwRn0lsR_XjOlFw/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_playlist.m3u8?type=live
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Astro Cricket
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
