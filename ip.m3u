@@ -1,31 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" group-title="Live Events", IPL T Sports HD
-http://livetvbox.live:8080/live/Derrick/Derrick/130714.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98wXG41c5-JbJm8ZL5jd2FzLGQtHy2MvMtQ&s" group-title="Sports", Willow Cricket Xtra HD
+http://b1g.ooo:80/live/Ethan/Ethan/260994.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" group-title="Live Events", IPL Gazi TV HD
-https://cdn-1.bdiptv24.line.pm/live/GaziTv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" group-title="Live Events", IPL English Star Sports
-http://watchindia.net:8880/live/83023/62335/2186.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL English Jio Cinema
-https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Hindi Star Sports
-http://176.119.29.52/live.ts?channelId=49569&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Hindi Jio Cinema
-https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Bangla
-https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/MSy2ABEs14G1-NjBvwZGtTeFGPQh16WTc9joFXvb-5u2oAoSFl4quEN_5OjBYnCttiLnUgkNwRn0lsR_XjOlFw/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_playlist.m3u8?type=live
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Astro Cricket
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXx7xA8BGtL4i1mF-RScFOnSUMkf5afQ1PQ1nCwSb8Q&s" , IPL Fox Cricket HD 501
-http://starshare.live:8080/live/T20C227070225533/202210886677/303598.ts
-
-
-
+#EXTINF:-1 tvg-logo="https://ecdn.dhakatribune.net/contents/cache/images/640x359x1/uploads/media/2024/01/05/ngsXdLcF-2c9427187833e3517a47ea658a16ce33.jpg?jadewits_media_id=12589" group-title="Live Events", Willow Cricket Xtra HD
+http://b1g.ooo:80/live/Ethan/Ethan/260994.ts
