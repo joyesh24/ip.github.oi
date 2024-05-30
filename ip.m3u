@@ -5,3 +5,9 @@ http://xtv.ooo:8080/live/641368995/43146885/167583.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFEn77XYneglVP6HQ-APkbwvDbYCzAOJWXRnI_i5LIkMR5lRBYfQZsgClpDxw_L4SDBc&usqp=CAU" group-title="Live Events", Willow Cricket HD
 http://xtv.ooo:8080/live/641368995/43146885/167583.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s" group-title="Sports", Sky Sports Cricket HD
+http://watchindia.net:8880/live/69354/82115/2090.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFEn77XYneglVP6HQ-APkbwvDbYCzAOJWXRnI_i5LIkMR5lRBYfQZsgClpDxw_L4SDBc&usqp=CAU" group-title="Live Events", Sky Sports Cricket HD
+http://watchindia.net:8880/live/69354/82115/2090.ts
