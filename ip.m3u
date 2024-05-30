@@ -5,3 +5,9 @@ http://b1g.ooo:80/live/Ethan/Ethan/173031.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFEn77XYneglVP6HQ-APkbwvDbYCzAOJWXRnI_i5LIkMR5lRBYfQZsgClpDxw_L4SDBc&usqp=CAU" group-title="Live Events", Willow Cricket HD
 http://b1g.ooo:80/live/Ethan/Ethan/173031.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", Gazi Tv
+http://lifetvbd.xyz:8080/12345/12345/2798.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Events", Gazi TV
+http://lifetvbd.xyz:8080/12345/12345/2798.m3u8
