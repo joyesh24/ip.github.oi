@@ -15,3 +15,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" , Sky Sports
 http://tv.cloudcdn.me/live.ts?channelId=281&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" , Zee Bangla
+https://tsneh.vercel.app/zeebangla.m3u8
