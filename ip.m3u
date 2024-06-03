@@ -10,11 +10,11 @@ https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T Sports T20 WC
 https://fsdsdad.b-cdn.net/102/index.m3u8?token=romijul-jes-2028
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png" , Toffee Sports Highlights
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" , Sky Sports
 http://tv.cloudcdn.me/live.ts?channelId=281&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" , Zee Bangla
 https://tsneh.vercel.app/zeebangla.m3u8
+
+
+
