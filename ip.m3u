@@ -59,7 +59,7 @@ http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHAzpa4a_1HbPiRe85MtK4-Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" , Bangla Vision
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHLK4eNk7VdWZsf2_6uy9wrM/ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg" , Channel 24
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgnS59tV7bKpMNBeYJt5SHuhSllOdN66hEg&s" , Channel 24
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHAlNRJ7n7ctWE7hnVQZZgz8/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA9JiFh7mPzvSJaR1VRwnRR-RI8CSyciGhA&s" , Ekattor TV
@@ -71,16 +71,16 @@ http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHH70aj_9qw9tTWpzR-KHj4g
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" , Shomoy TV
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHGsAJzNHNf0dixKtVCRPwfU/ts" , Ananda TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" , Ananda TV
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHGsAJzNHNf0dixKtVCRPwfU/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" , Bangla TV
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHGkvXoqFdbTFxYDLdNTPKyU/ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" , Bijoy TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uMdBgj5QVqx9jD0vV951HDbYlx4W-wQUZZ0L3WYpqi9wfVOpbwUvI0TkKR5HF-g8TtHNybXVNA=s176-c-k-c0x00ffffff-no-rj-mo" , Bijoy TV
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHBKLjitt2EHwa1VleXcpu_k/ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s" , Channel 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" , Channel 9
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFvvsB8IHNPZXyH1vSDNjyg/ts
 
 
