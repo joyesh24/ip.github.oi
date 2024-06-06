@@ -6,8 +6,8 @@ https://shounwifi.net/ott-player/tofee-english.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,  T20 WC Bangla toffee VIP
 https://shounwifi.net/ott-player/tofee-bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T20 WC T Sports
-https://mominvaithanks.xyz/mominRocks/ts.php?id=live-02&e.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T Sports
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI/ts
 
 #EXTINF:-1 tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" , Sky Sports
 http://tv.cloudcdn.me/live.ts?channelId=281&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
