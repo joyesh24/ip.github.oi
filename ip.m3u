@@ -6,7 +6,7 @@
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s" , Sky Sports Cricket
-https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Cricket_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9Ta3lfU3BvcnRzX0NyaWNrZXRfTGl2ZV9UVi9pbmRleC5tM3U4Iiwid2Vic2l0ZSI6Imh0dHBzOi8vYmVlc3BvcnQudHYvYXV0aG9yaXplLWNoYW5uZWwiLCJpc1ZJUCI6IjAiLCJleHAiOjE3MTc2Nzg0MDJ9.aYvtBjGjXVS-NBBUEhOla8PB0qVbZ8wjuXpwyi7n0s0&ref=https://beesport.tv/
+https://tgaadi-web.tech/api/star.php?tv=23566
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" , Zee Bangla
 https://tsneh.vercel.app/zeebangla.m3u8
