@@ -11,7 +11,7 @@ https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?%7CCookie=Edge-Cache-Co
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s" , Sky Sports Cricket
-http://46.229.253.27/hlsr/ShJcU0BbQQNHDgBaVFMFDQBSBwNWBAVTVQdQVFEFCgQAUVFQAQQACFwbGBpEF0dcWF1vWQIXXlADVlABXEgRR0JVRm1aV0EDRwoDDgJTAxsVEkRZC1BGWwFOQEcMABEIEwMGBQcFUgBHFRZdTxdQS1dRXG8CUBIIUgdADQsRX14dEltcbFcGVARXUBoNQQUbFRJZQxYXXg9EDg4bRwZaRkNRQFcRCUEKXQgMGhtBVlZMXkRCHxdeQ3YgQBtHAUtGVF5HW1xdQQNHVAdND0EZG1BDb0IDRhATVAMPUhdGCRABEhgQXlIbZgZWWlZSAEFQVl5DElwXVUMdQA9YCw1HXUNvRFtXEVkbVAwHCAJbABtE/QulsDBDiUa/RbXCmfoNhV/124269/4eaeaa9b7a7201840a115dcd46275577/124269_15546.ts
+http://tv.cloudcdn.me/live.ts?channelId=281&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" , Zee Bangla
 https://tsneh.vercel.app/zeebangla.m3u8
