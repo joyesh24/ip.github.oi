@@ -8,7 +8,7 @@ https://video-weaver.arn04.hls.live-video.net/v1/playlist/CtoFfPEv8raxaU1KYHOmH2
 https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?%7CCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717770636:KeyName=prod_live_events:Signature=HGIq-xPni70vSJgZnrh0WHC1_2WLMWCLGkA0DrjklyQg-b2DwtgB-jZ9PCP_yexLGtzQDqaNG6o00_6g7cWkDw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T Sports
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI/ts
+http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s" , Sky Sports Cricket
 http://tv.cloudcdn.me/live.ts?channelId=281&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
